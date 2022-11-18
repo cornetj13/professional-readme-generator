@@ -32,6 +32,10 @@ The README generated looks as follows:
 
 ![application-README](./assets/images/application-README.png)
 
+A video walkthrough of the application is provided here:
+
+https://watch.screencastify.com/v/lmVzv9fEl4sRSAkX3HeX
+
 ## Table of Contents
 
 - [Installation](#installation)
